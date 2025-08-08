@@ -48,5 +48,7 @@ Environment: Jupyter Notebook, GitHub
 - Track session intent – not just duration, but meaningful engagement (e.g., add-to-cart).
 
 <p align="center">
-  <img src="thumbnail.png" width="600"/>
+  <img src="images/Thumbnail.png" width="600"/>
 </p>
+
+Tags: data-analysis, e-commerce, conversion-rate, random-forest, business-insight, portfolio-project
