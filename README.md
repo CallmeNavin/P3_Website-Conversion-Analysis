@@ -1,40 +1,37 @@
 **Website Conversion Analysis**
 
 **Overview**
+
 A strategic analysis of user behavior on an e-commerce website to uncover key drivers of conversion. This project identifies behavioral patterns and proposes actionable business recommendations based on data.
 
 **Business Goal & Dataset**
+
 Understand what drives users to convert on the website and recommend actions to increase conversion rates, reduce bounce rate, and optimize user journey.
 Source: [Synthetic E-commerce Behavior Data](https://www.kaggle.com/datasets/itsrohithere/comprehensive-synthetic-e-commerce-behavior-data)
 
 **Tools Used**
+
 - Python (pandas, scikit-learn, matplotlib, seaborn)
 - Jupyter Notebook
 - Git/GitHub
 
-**Project Structure**
-website-conversion-analysis/
-│
-├── data/                 # Synthetic dataset (CSV file)
-├── notebook/             # Main analysis & modeling notebook
-├── images/               # Visualizations for portfolio
-├── README.md             # Project overview
-└── requirements.txt      # Dependencies (optional)
-
 **Tech Stack & Tools**
-Category:	Tool / Library
-Data Handling: pandas, numpy
-Visualization: matplotlib, seaborn
-Modeling: scikit-learn (Random Forest)
-Environment: Jupyter Notebook, GitHub
+
+- Category:	Tool / Library
+- Data Handling: pandas, numpy
+- Visualization: matplotlib, seaborn
+- Modeling: scikit-learn (Random Forest)
+- Environment: Jupyter Notebook, GitHub
 
 **Methodology**
+
 - Exploratory Data Analysis (EDA): Identify outliers, understand feature distributions
 - Feature Engineering: Handle missing values, encode categorical variables
 - Modeling: Logistic Regression, Random Forest (for feature importance)
 - Interpretation: Use model results to extract insights and propose strategies.
 
 **Business Question**
+
 "What behavioral factors influence a user’s likelihood to convert on an e-commerce website?"
 
 **Key Findings**
