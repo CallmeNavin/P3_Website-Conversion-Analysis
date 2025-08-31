@@ -6,8 +6,10 @@ A strategic analysis of user behavior on an e-commerce website to uncover key dr
 
 **Business Goal & Dataset**
 
-Understand what drives users to convert on the website and recommend actions to increase conversion rates, reduce bounce rate, and optimize user journey.
-Source: [Synthetic E-commerce Behavior Data](https://www.kaggle.com/datasets/itsrohithere/comprehensive-synthetic-e-commerce-behavior-data)
+- Understand what drives users to convert on the website and recommend actions to increase conversion rates, reduce bounce rate, and optimize user journey.
+- Source: Synthetic E-commerce Behavior Data (from Kaggle).
+
+https://www.kaggle.com/datasets/itsrohithere/comprehensive-synthetic-e-commerce-behavior-data
 
 **Tools Used**
 
@@ -44,8 +46,4 @@ Source: [Synthetic E-commerce Behavior Data](https://www.kaggle.com/datasets/its
 - Reduce Bounce Rate through better landing page design and faster load times.
 - Track session intent – not just duration, but meaningful engagement (e.g., add-to-cart).
 
-<p align="center">
-  <img src="images/Thumbnail.png" width="600"/>
-</p>
-
-Tags: data-analysis, e-commerce, conversion-rate, random-forest, business-insight, portfolio-project
+![Overview](https://github.com/CallmeNavin/P3_Website-Conversion-Analysis/blob/main/Version%201/Visualization/Overview.png)
