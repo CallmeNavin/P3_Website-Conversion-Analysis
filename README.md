@@ -47,7 +47,11 @@ https://www.kaggle.com/datasets/itsrohithere/comprehensive-synthetic-e-commerce-
 
 _**Key Findings**_
 
+- x
+
 _**Actionable Plans**_
+
+- x
 
 **C. About Me**
 
