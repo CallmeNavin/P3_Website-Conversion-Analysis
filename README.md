@@ -44,7 +44,8 @@ https://www.kaggle.com/datasets/itsrohithere/comprehensive-synthetic-e-commerce-
 
 - This second version enhances the initial analysis by transforming Python-based findings into an interactive Power BI dashboard. The goal is to validate the earlier insights with clear visual storytelling and business-oriented presentation.
 
-![Dashboard Visulization](https://github.com/CallmeNavin/P3_Website-Conversion-Analysis/blob/main/Version%202/Dashboard.png)
+![Dashboard Visulization](https://github.com/CallmeNavin/P3_Website-Conversion-Analysis/blob/main/Version%202/Main%20Dashboard.png)
+
 _From Engagement to Purchase: Conversion Insights_
 
 **B. Methodology**
